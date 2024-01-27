@@ -15,7 +15,7 @@ for(int k=0;k<3;k++)
 {      
 c[i][j]+=a[i][k]*b[k][j];      
 }//end of k loop  
-System.out.print(c[i][j]+" ");  //printing matrix element  
+System.out.print(c[i][j]+"printin matrix element ");  //printing matrix element  
 }//end of j loop  
 System.out.println();//new line    
 }    
